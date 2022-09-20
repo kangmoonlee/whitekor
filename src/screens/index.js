@@ -1,0 +1,6 @@
+export { default as LoginPage } from "./Login"
+export { default as HomePage } from "./Home"
+export { default as ExerciseScreen } from "./Exercise"
+export { default as ScheduleScreen } from "./Schedule"
+export { default as PaymentScreen } from "./Payment"
+export { default as TestScreen } from "./Test"
